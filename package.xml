@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
-  <name>sp_messages</name>
+  <name>sp_msgs</name>
   <version>0.5.0</version>
   <description>Sequence Planner Messages</description>
   <maintainer email="martin.dahl@gmail.com">Martin Dahl</maintainer>

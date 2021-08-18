@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(sp_messages)
+project(sp_msgs)
 
 
 # Default to C++14
